@@ -36,7 +36,9 @@ Website Description:
 This five-page static website introduces Balai Lawaan, explains its background and available amenities, presents a photo gallery, and provides contact and inquiry information. The website was created for the CCS 222 - Web Design and Development activity.
 
 Design Choices:
-[TO BE COMPLETED]
+The visual design is based on the Balai Lawaan logo. The main color palette uses warm cream for a welcoming, home-like feeling, charcoal for readable text and strong linework, soft white for content areas, and muted gray-brown for thin borders. The design uses simple circles, horizontal lines, open spacing, and a centered layout to echo the logo's clean house illustration and calm atmosphere.
+
+The branding uses a rounded geometric sans-serif font style with lowercase text to match the friendly appearance of the logo. Body text uses a simple sans-serif font for readability. Navigation and buttons use charcoal backgrounds with light text, while images and content areas use thin borders instead of heavy decoration. The same colors, typography, spacing, and border style should be used on all five pages for consistency.
 
 Sources:
 Facebook: https://www.facebook.com/BalaiLawaan/

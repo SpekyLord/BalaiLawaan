@@ -1,35 +1,151 @@
 /* =========================
    GENERAL
    ========================= */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #2f2c29;
+    background-color: #f8efdf;
+}
 
 /* =========================
    HEADER
    ========================= */
+header {
+    width: 100%;
+    padding: 25px 7%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #f8efdf;
+    border-bottom: 1px solid #8d8478;
+}
+
+.logo {
+    width: 260px;
+    max-width: 100%;
+}
+
+.header-content p {
+    margin: 10px;
+    font-size: 18px;
+}
 
 /* =========================
    NAVIGATION
    ========================= */
+nav {
+    width: 100%;
+    padding: 15px 7%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #2f2c29;
+}
+
+.navigation-links {
+    padding: 5px;
+}
+
+.navigation-links a {
+    display: inline-block;
+    margin: 5px 12px;
+    color: #fffaf2;
+    text-decoration: none;
+}
+
+.navigation-links a:hover {
+    text-decoration: underline;
+}
+
+.navigation-links a:visited {
+    color: #fffaf2;
+}
 
 /* =========================
-   HOME
+   HOME PAGE
    ========================= */
+main {
+    width: 100%;
+    min-height: 350px;
+    padding: 35px 7%;
+    box-sizing: border-box;
+    background-color: #fffaf2;
+    border-bottom: 1px solid #8d8478;
+}
 
-/* =========================
-   ABOUT
-   ========================= */
+.content {
+    width: 62%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding-right: 35px;
+}
 
-/* =========================
-   SERVICES
-   ========================= */
+.welcome-text {
+    margin-bottom: 20px;
+}
 
-/* =========================
-   GALLERY
-   ========================= */
+aside {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: #f8efdf;
+    border: 1px solid #2f2c29;
+}
 
-/* =========================
-   CONTACT FORM
-   ========================= */
+h2 {
+    margin-top: 0;
+    font-family: Georgia, serif;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 15px;
+    color: #fffaf2;
+    background-color: #2f2c29;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #8d8478;
+}
+
+.contact-button p {
+    margin: 0;
+}
+
+.images {
+    margin-top: 25px;
+}
+
+.images img {
+    width: 45%;
+    height: 180px;
+    margin-right: 10px;
+    object-fit: cover;
+    background-color: #f8efdf;
+    border: 1px solid #8d8478;
+}
+
+.quick-information {
+    padding: 5px;
+}
 
 /* =========================
    FOOTER
    ========================= */
+footer {
+    width: 100%;
+    padding: 20px 7%;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #f8efdf;
+}
+
+.footer-content p {
+    margin: 0;
+}
