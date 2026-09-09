@@ -45,8 +45,11 @@ The Home page now has a fixed navigation bar at the very top of the browser and 
 
 The layout was kept simple and beginner-friendly. The HTML uses clear div sections, including the header content, navigation links, welcome text, contact button, image area, quick information, and footer content. The CSS uses separate selectors, simple widths, margins, padding, colors, borders, and fixed positioning.
 
+Current Status:
+The Home page is complete for the current stage. All five pages now use the same logo header, fixed top navigation bar, fixed left sidebar panel, footer, colors, spacing, and CSS class names. The Home page also includes the exterior and courtyard photos, a contact button, a scrollable lower section, and verified business contact information.
+
 Next Step:
-Add the same navigation bar and left sidebar panel to about.html, services.html, gallery.html, and contact.html. Keep the same colors, links, spacing, and CSS class names so all five pages look consistent.
+Add the page-specific content to about.html, services.html, gallery.html, and contact.html. The About page needs its background, mission, vision, values, and image. The Services page needs at least five offerings or amenities. The Gallery page needs at least eight images. The Contact page needs the required form controls.
 
 Sources:
 Facebook: https://www.facebook.com/BalaiLawaan/
