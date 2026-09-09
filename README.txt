@@ -40,6 +40,14 @@ The visual design is based on the Balai Lawaan logo. The main color palette uses
 
 The branding uses a rounded geometric sans-serif font style with lowercase text to match the friendly appearance of the logo. Body text uses a simple sans-serif font for readability. Navigation and buttons use charcoal backgrounds with light text, while images and content areas use thin borders instead of heavy decoration. The same colors, typography, spacing, and border style should be used on all five pages for consistency.
 
+Work Completed on September 10, 2026:
+The Home page now has a fixed navigation bar at the very top of the browser and a fixed sidebar panel on the left side. The main content and footer leave space for the sidebar so they do not overlap it. The Home page was given enough height to scroll, and a lower section was added to describe the shared spaces and amenities.
+
+The layout was kept simple and beginner-friendly. The HTML uses clear div sections, including the header content, navigation links, welcome text, contact button, image area, quick information, and footer content. The CSS uses separate selectors, simple widths, margins, padding, colors, borders, and fixed positioning.
+
+Next Step:
+Add the same navigation bar and left sidebar panel to about.html, services.html, gallery.html, and contact.html. Keep the same colors, links, spacing, and CSS class names so all five pages look consistent.
+
 Sources:
 Facebook: https://www.facebook.com/BalaiLawaan/
 Google hotel listing: Used to verify the publicly listed business phone number and Jaro, Iloilo City address.
