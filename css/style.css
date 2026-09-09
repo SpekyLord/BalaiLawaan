@@ -70,7 +70,7 @@ nav {
    ========================= */
 main {
     width: auto;
-    min-height: 800px;
+    min-height: 500px;
     padding: 35px 3%;
     margin-left: 220px;
     box-sizing: border-box;
@@ -131,15 +131,15 @@ h2 {
 
 .images img {
     width: 45%;
-    height: 180px;
+    height: 300px;
     margin-right: 10px;
     object-fit: cover;
-    background-color: #f8efdf;
     border: 1px solid #8d8478;
+    vertical-align: top;
 }
 
 .home-bottom {
-    margin-top: 280px;
+    margin-top: 80px;
     padding-top: 20px;
     border-top: 1px solid #8d8478;
 }
