@@ -17,10 +17,29 @@ Public Phone:
 (033) 502 2552
 
 Business Description:
-Balai Lawaan is a quiet and home-like homestay / bed and breakfast in Iloilo City. It offers travelers, tourists, backpackers, couples, families, and guests looking for a peaceful staycation a comfortable place to stay within the city.
+Balai Lawaan is a quiet and home-like homestay / bed and breakfast in Iloilo City. It provides travelers, tourists, backpackers, couples, families, and staycation guests with a peaceful and comfortable place to stay.
+
+The property is private and gated and includes comfortable guest accommodations and shared spaces.
 
 Known Features and Amenities:
-Private guest rooms, air conditioning, private bathrooms, free WiFi, courtyard, patio or outdoor seating, dining area, mini kitchen, billiards table, basketball half-court, garden, free secure parking, breakfast, snacks and beverages, airport transfer options, vehicle rental options, backup generator, and exterior security cameras.
+- Private guest rooms
+- Air conditioning
+- Private bathrooms
+- Free WiFi
+- Courtyard
+- Patio / outdoor seating
+- Dining area
+- Mini kitchen
+- Billiards table
+- Basketball half-court
+- Garden
+- Free secure parking
+- Breakfast
+- Snacks and beverages
+- Airport transfer options
+- Vehicle rental options
+- Backup generator
+- Exterior security cameras
 
 Pages:
 1. Home
@@ -30,58 +49,98 @@ Pages:
 5. Contact Us
 
 Business Information:
-Balai Lawaan is described as a private and gated home with comfortable rooms and shared spaces. It emphasizes a peaceful, warm, comfortable, and home-like atmosphere.
+Balai Lawaan is a private and gated homestay with comfortable guest accommodations and shared spaces. It focuses on providing a peaceful, warm, comfortable, and home-like atmosphere for guests.
 
 Website Description:
-This five-page static website introduces Balai Lawaan, explains its background and available amenities, presents a photo gallery, and provides contact and inquiry information. The website was created for the CCS 222 - Web Design and Development activity.
+This five-page website introduces Balai Lawaan, shares information about the business and its services, presents photos of the property, and provides contact and inquiry information. It was created for the CCS 222 - Web Design and Development activity.
 
 Design Choices:
-The visual design is based on the Balai Lawaan logo. The main color palette uses warm cream for a welcoming, home-like feeling, charcoal for readable text and strong linework, soft white for content areas, and muted gray-brown for thin borders. The design uses simple circles, horizontal lines, open spacing, and a centered layout to echo the logo's clean house illustration and calm atmosphere.
+The website design is based on the Balai Lawaan logo and its calm, home-like atmosphere. The color palette uses warm cream, soft white, charcoal, and muted gray-brown.
 
-The branding uses a rounded geometric sans-serif font style with lowercase text to match the friendly appearance of the logo. Body text uses a simple sans-serif font for readability. Navigation and buttons use charcoal backgrounds with light text, while images and content areas use thin borders instead of heavy decoration. The same colors, typography, spacing, and border style should be used on all five pages for consistency.
+The design uses Georgia serif headings, Arial body text, simple borders, open spacing, minimal decoration, charcoal navigation and buttons, and light content backgrounds. The pages use consistent layouts, spacing, image styling, and navigation so the website is simple and easy to understand.
 
-Work Completed on September 10, 2026:
-The Home page now has a fixed navigation bar at the very top of the browser and a fixed sidebar panel on the left side. The main content and footer leave space for the sidebar so they do not overlap it. The Home page was given enough height to scroll, and a lower section was added to describe the shared spaces and amenities.
+Page Implementation Summary:
 
-The layout was kept simple and beginner-friendly. The HTML uses clear div sections, including the header content, navigation links, welcome text, contact button, image area, quick information, and footer content. The CSS uses separate selectors, simple widths, margins, padding, colors, borders, and fixed positioning.
+Home:
+- Includes the Balai Lawaan logo
+- Has navigation links to all five pages
+- Includes at least two images
+- Has a background design, introduction, Contact Us call-to-action, business information sidebar, footer, and shared CSS
 
-The About Us page now includes four background paragraphs about Balai Lawaan, an exterior image, a mission statement, a vision statement, and four values: hospitality, comfort, privacy, and peacefulness. The About page keeps the existing header, navigation, sidebar, footer, colors, and overall visual style. Its image and text use a separate About-page layout so the text remains in its own column beside the image.
+About Us:
+- Includes five background and business information paragraphs
+- Has an integrated business image
+- Includes a mission and vision
+- Includes four values: Hospitality, Comfort, Privacy, and Peacefulness
+- Uses the same header, navigation, sidebar, and footer
 
-The Services page now presents six verified offerings: guest accommodation, breakfast and refreshments, kitchen and dining area, recreation and shared spaces, transportation services, and tour assistance for Islas de Gigantes. It includes relevant images from the project folder, including food and Gigantes images, and lists the verified breakfast and coffee prices. Normal service photos use consistent sizing, while the poster-style Gigantes image remains fully visible without cropping.
+Services:
+- Includes six offerings: Guest Accommodation, Breakfast & Refreshments, Kitchen & Dining Area, Recreation & Shared Spaces, Transportation Services, and Tour Assistance
+- Includes names, descriptions, relevant images, HTML lists, and semantic article elements
+- Includes verified prices where available
 
-Current Status:
-The Home page is complete for the current stage. It includes the Balai Lawaan logo, working navigation links to all five pages, a location and phone sidebar, an introduction, a Contact Us call-to-action, at least two images, a footer, and the shared CSS file. The About page is complete for the current stage with business background, an exterior image, mission, vision, and values. The Services page is complete for the current stage with six verified offerings, descriptions, lists, relevant images, and verified prices where available. The Gallery page is substantially complete with more than eight images, figure and figcaption elements, captions, consistent image sizing, and a gallery grid layout. The Contact page is substantially complete with the required demonstration inquiry form and no backend.
+Verified prices:
+- Home-cooked breakfast: ₱150 per meal
+- Unlimited brewed coffee: ₱50 per guest
 
-Next Step:
-Verify that all Gallery and Services images load correctly, review the Contact page to make sure its options are accurate for the business, and perform final testing of navigation, images, page layouts, and shared CSS.
+Gallery:
+- Contains more than 8 images
+- Uses a gallery grid with figure and figcaption elements
+- Includes captions and consistent image sizing
+- Uses shared navigation and footer
+
+Contact Us:
+- Includes First Name, Last Name, Email, Phone, Password, Age / Number, Date, Time, radio buttons, checkboxes, a dropdown, textarea, file upload, Submit button, and Reset button
+- The form is for demonstration only and does not require a backend
 
 Business Verification:
-Balai Lawaan is a real homestay / bed and breakfast in Iloilo City. The business has an online presence through Facebook and accommodation platforms. The project requires evidence that the business does not currently have its own official standalone website.
+Balai Lawaan has an online presence through Facebook, Google hotel listings, Booking.com, and Airbnb.
 
 Official Website Verification:
-[TO BE COMPLETED WITH EVIDENCE]
+A search for Balai Lawaan and "Balai Lawaan official website" was conducted using Google. The search results showed Balai Lawaan's Facebook presence and third-party accommodation listings such as Google Hotels, Booking.com, and Airbnb. No standalone official Balai Lawaan website was found during the verification process.
+
+This verification was performed for the CCS 222 requirement.
 
 Short Explanation Questions:
+
 1. Why did you choose this business?
-[TO BE COMPLETED]
+We chose Balai Lawaan because it is a real local business in Iloilo with an online presence but no official standalone website. It also has enough information, services, and photos to create a useful website.
 
 2. Who is the target audience of the website?
-[TO BE COMPLETED]
+The target audience includes tourists, travelers, backpackers, couples, families, and people looking for a peaceful staycation in Iloilo City.
 
 3. What design choices did you make?
-[TO BE COMPLETED]
+We used warm cream, soft white, charcoal, and muted brown colors to match the calm and home-like atmosphere of Balai Lawaan. We also used simple layouts, readable fonts, thin borders, and consistent spacing.
 
 4. What problems does your website solve for the business?
-[TO BE COMPLETED]
+The website puts Balai Lawaan's information, services, gallery, and contact details in one place instead of making visitors rely only on Facebook or third-party booking platforms.
 
 5. What part of the website are you most proud of?
-[TO BE COMPLETED]
+We are most proud of how the pages use the same design and navigation while presenting different content for the Home, About, Services, Gallery, and Contact pages.
 
 6. What part did you find most difficult?
-[TO BE COMPLETED]
+The most difficult part was keeping the layout consistent across all five pages while making sure the HTML and CSS met the activity requirements.
+
+Final Status:
+The website is complete for the current submission stage. Final testing is still needed for:
+- Broken links
+- Broken images
+- Navigation
+- CSS loading
+- Form display
+- Page consistency
 
 Sources:
-Facebook: https://www.facebook.com/BalaiLawaan/
-Google hotel listing: Used to verify the publicly listed business phone number and Jaro, Iloilo City address.
-Booking.com listing: Used to confirm the Balai Lawaan property and address.
-Airbnb listing: Check availability and add the listing source if available.
+
+Facebook:
+https://www.facebook.com/BalaiLawaan/
+Used to confirm Balai Lawaan's social media presence.
+
+Google hotel listing:
+Used to verify the business location and publicly listed contact number.
+
+Booking.com:
+Used to verify the property location, accommodation details, facilities, and amenities.
+
+Airbnb:
+Used to verify business descriptions, shared spaces, host information, breakfast details, transportation services, and other amenities.
