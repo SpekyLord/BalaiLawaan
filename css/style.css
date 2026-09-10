@@ -271,6 +271,50 @@ h2 {
 }
 
 /* =========================
+   SERVICES PAGE
+   ========================= */
+.services-section {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 25px;
+}
+
+.service-item {
+    padding: 15px;
+    border: 1px solid #8d8478;
+    background-color: #f8efdf;
+}
+
+.service-item img {
+    display: block;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 1px solid #8d8478;
+}
+
+.service-item img.poster-image {
+    object-fit: contain;
+    background-color: #fffaf2;
+}
+
+.service-item h3 {
+    margin: 0 0 8px;
+    font-family: Georgia, serif;
+    font-weight: normal;
+}
+
+.service-item p {
+    margin: 0 0 12px;
+}
+
+.service-item ul {
+    margin: 0 0 12px;
+    padding-left: 20px;
+}
+
+/* =========================
    CONTACT PAGE
    ========================= */
 .contact-form {
