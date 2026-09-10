@@ -45,13 +45,41 @@ The Home page now has a fixed navigation bar at the very top of the browser and 
 
 The layout was kept simple and beginner-friendly. The HTML uses clear div sections, including the header content, navigation links, welcome text, contact button, image area, quick information, and footer content. The CSS uses separate selectors, simple widths, margins, padding, colors, borders, and fixed positioning.
 
+The About Us page now includes four background paragraphs about Balai Lawaan, an exterior image, a mission statement, a vision statement, and four values: hospitality, comfort, privacy, and peacefulness. The About page keeps the existing header, navigation, sidebar, footer, colors, and overall visual style. Its image and text use a separate About-page layout so the text remains in its own column beside the image.
+
 Current Status:
-The Home page is complete for the current stage. All five pages now use the same logo header, fixed top navigation bar, fixed left sidebar panel, footer, colors, spacing, and CSS class names. The Home page also includes the exterior and courtyard photos, a contact button, a scrollable lower section, and verified business contact information.
+The Home page is complete for the current stage. It includes the Balai Lawaan logo, working navigation links to all five pages, a location and phone sidebar, an introduction, a Contact Us call-to-action, at least two images, a footer, and the shared CSS file. The About page is complete for the current stage with business background, an exterior image, mission, vision, and values. The Gallery page is substantially complete with more than eight images, figure and figcaption elements, captions, consistent image sizing, and a gallery grid layout. The Contact page is substantially complete with the required demonstration inquiry form and no backend. The Services page is still incomplete and needs at least five actual services, accommodations, amenities, or offerings with names and descriptions.
 
 Next Step:
-Add the page-specific content to about.html, services.html, gallery.html, and contact.html. The About page needs its background, mission, vision, values, and image. The Services page needs at least five offerings or amenities. The Gallery page needs at least eight images. The Contact page needs the required form controls.
+Complete the Services page with at least five verified offerings and descriptions. Verify that all Gallery images load correctly, review the Contact page to make sure its options are accurate for the business, and perform final testing of navigation, images, page layouts, and shared CSS.
+
+Business Verification:
+Balai Lawaan is a real homestay / bed and breakfast in Iloilo City. The business has an online presence through Facebook and accommodation platforms. The project requires evidence that the business does not currently have its own official standalone website.
+
+Official Website Verification:
+[TO BE COMPLETED WITH EVIDENCE]
+
+Short Explanation Questions:
+1. Why did you choose this business?
+[TO BE COMPLETED]
+
+2. Who is the target audience of the website?
+[TO BE COMPLETED]
+
+3. What design choices did you make?
+[TO BE COMPLETED]
+
+4. What problems does your website solve for the business?
+[TO BE COMPLETED]
+
+5. What part of the website are you most proud of?
+[TO BE COMPLETED]
+
+6. What part did you find most difficult?
+[TO BE COMPLETED]
 
 Sources:
 Facebook: https://www.facebook.com/BalaiLawaan/
 Google hotel listing: Used to verify the publicly listed business phone number and Jaro, Iloilo City address.
 Booking.com listing: Used to confirm the Balai Lawaan property and address.
+Airbnb listing: Check availability and add the listing source if available.
